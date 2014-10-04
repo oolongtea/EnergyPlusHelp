@@ -4,3 +4,4 @@ Use the following [GitHub link](https://github.com/nrel/EnergyPlusRelease/releas
 
 Useful links:
 + [EnergyPlus Getting Started PDF](http://apps1.eere.energy.gov/buildings/energyplus/pdfs/gettingstarted.pdf)
++ [EnergyPlus file builder](http://apps1.eere.energy.gov/buildings/energyplus/cfm/inputs/)
